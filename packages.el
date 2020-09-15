@@ -52,3 +52,7 @@
 
 (package! company-org-roam
    :recipe (:host github :repo "jethrokuan/company-org-roam"))
+
+(package! ace-jump-mode)
+(package! zygospore)
+(package! golden-ratio)
